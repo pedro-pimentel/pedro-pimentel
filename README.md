@@ -1,3 +1,6 @@
+![GitHub followers](https://img.shields.io/github/followers/pedro-pimentel?style=social)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pimentel-625b5585/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pedropaulosv1@gmail.com)
 ### Olá
 ### Sou o Pedro, estudante de Ciência da Computação na Universidade Federal do Oeste do Pará
 ### 🔭 Atualmente estou estudando Javascript e tecnologias derivadas como React e Vue
