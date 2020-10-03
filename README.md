@@ -1,6 +1,6 @@
 ### Olá
 ### Sou o Pedro, estudante de Ciência da Computação na Universidade Federal do Oeste do Pará
-## 🔭 Atualmente estou estudando Javascript e tecnologias derivadas como React e Vue
+#### 🔭 Atualmente estou estudando Javascript e tecnologias derivadas como React e Vue
 
 <!--
 **pedro-pimentel/pedro-pimentel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
